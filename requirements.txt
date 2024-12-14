@@ -1,0 +1,7 @@
+# for running cli scripts
+typer
+# for managaging environment variables
+python-dotenv
+# for connecting from spacy to llms
+spacy-llm
+langchain>=0.1,<0.2
